@@ -4,7 +4,7 @@ Welcome to my LeetCode 75 journey! This repository tracks my progress, solutions
 
 ## 📊 Progress Tracker
 
-- [LeetCode 75 Tracker (CSV)](./LeetCode_75_Tracker.csv)
+- [LeetCode 75 Tracker (Excel)](./LeetCode_75_Tracker.xlsx)
 
 ## 📅 Daily Topics & Problems
 
@@ -31,7 +31,7 @@ Welcome to my LeetCode 75 journey! This repository tracks my progress, solutions
 
 ## 🚀 How to Use This Repo
 
-1. Track your progress in the [CSV tracker](./LeetCode_75_Tracker.csv).
+1. Track your progress in the [Excel tracker](./LeetCode_75_Tracker.xlsx).
 2. Solve each day's problems and upload your solutions as Jupyter notebooks in the `LeetCode75/` folder.
 3. Commit daily for visible progress!
 
