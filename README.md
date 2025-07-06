@@ -1,40 +1,128 @@
-# LeetCode 75 Journey
+# 🐍 Python LeetCode Journey
 
-Welcome to my LeetCode 75 journey! This repository tracks my progress, solutions, and notes as I work through the LeetCode 75 problems.
+Welcome to my daily LeetCode challenge journey! This repository contains Python solutions to LeetCode problems, organized by difficulty and topic. I solve at least one problem every day to improve my problem-solving skills.
 
-## 📊 Progress Tracker
+## 📊 Progress Overview
 
-- [LeetCode 75 Tracker (Excel)](./LeetCode_75_Tracker.xlsx)
+- **Total Problems Solved:** 1
+- **Easy:** 1 | **Medium:** 0 | **Hard:** 0
+- **Current Streak:** 1 days
+- **Last Updated:** January 2025
 
-## 📅 Daily Topics & Problems
+## 🎯 Goals
 
-| Day | Topic                | Problem 1                                      | Problem 2                                      | Difficulty |
-|-----|----------------------|------------------------------------------------|------------------------------------------------|------------|
-| 1   | Arrays & Hashing     | Two Sum                                        | Group Anagrams                                 | Easy       |
-| 2   | Arrays & Hashing     | Top K Frequent Elements                        | Product of Array Except Self                   | Medium     |
-| 3   | Two Pointers         | Valid Palindrome                               | Two Sum II – Input Array Is Sorted             | Easy       |
-| 4   | Two Pointers         | 3Sum                                           | Container With Most Water                      | Medium     |
-| 5   | Sliding Window       | Best Time to Buy and Sell Stock                | Longest Substring Without Repeating Characters | Easy       |
-| 6   | Sliding Window       | Longest Repeating Character Replacement        | Minimum Window Substring                       | Hard       |
-| 7   | Stack                | Valid Parentheses                              | Daily Temperatures                             | Easy       |
-| 8   | Stack                | Car Fleet                                      | Evaluate Reverse Polish Notation               | Medium     |
-| 9   | Binary Search        | Binary Search                                  | Koko Eating Bananas                            | Easy       |
-| 10  | Binary Search        | Search a 2D Matrix                             | Time Based Key-Value Store                     | Medium     |
-| 11  | Linked List          | Reverse Linked List                            | Merge Two Sorted Lists                         | Easy       |
-| 12  | Linked List          | Reorder List                                   | Remove N-th Node From End of List              | Medium     |
-| 13  | Trees                | Invert Binary Tree                             | Maximum Depth of Binary Tree                   | Easy       |
-| 14  | Trees                | Diameter of Binary Tree                        | Subtree of Another Tree                        | Medium     |
+- ✅ Solve at least one LeetCode problem every day
+- ✅ Document solutions with clear explanations and time/space complexity
+- ✅ Cover problems across different topics (arrays, strings, graphs, etc.)
+- ✅ Improve coding speed and accuracy
+- ✅ Build a comprehensive Python problem-solving toolkit
 
-## 📓 Notebooks
+## 📁 Repository Structure
 
-- [Colab / Jupyter Notebooks Folder](./LeetCode75/) *(to be filled with .ipynb files as you solve problems)*
+```
+leetcode-75-journey/
+├── README.md                    # This file
+├── solutions/                   # All Python solutions
+│   ├── easy/                   # Easy problems (1-2)
+│   ├── medium/                 # Medium problems (3-4)
+│   └── hard/                   # Hard problems (5)
+├── templates/                  # Solution templates
+├── study_notes/               # Topic-wise study notes
+└── progress_tracker.md        # Detailed progress tracking
+```
 
-## 🚀 How to Use This Repo
+## 🧩 Problem Categories
 
-1. Track your progress in the [Excel tracker](./LeetCode_75_Tracker.xlsx).
-2. Solve each day's problems and upload your solutions as Jupyter notebooks in the `LeetCode75/` folder.
-3. Commit daily for visible progress!
+### Arrays & Strings
+- Two Pointers
+- Sliding Window
+- Prefix Sum
+- Kadane's Algorithm
+
+### Data Structures
+- Stack & Queue
+- Linked Lists
+- Trees & Graphs
+- Heaps & Priority Queues
+
+### Algorithms
+- Binary Search
+- Dynamic Programming
+- Backtracking
+- Greedy
+- DFS/BFS
+
+## 📅 Daily Challenge Log
+
+| Day | Date | Problem | Difficulty | Topic | Solution |
+|-----|------|---------|------------|-------|----------|
+| 1 | 2025-01-XX | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Arrays & Hashing | [Solution](./solutions/easy/two-sum/) |
+| 2 | 2025-01-XX | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers | [Solution](./solutions/easy/valid-palindrome/) |
+
+## 🚀 How to Use This Repository
+
+1. **Browse Solutions**: Navigate to the appropriate difficulty folder in `solutions/`
+2. **Study Topics**: Check `study_notes/` for topic-wise explanations
+3. **Track Progress**: See `progress_tracker.md` for detailed statistics
+4. **Run Solutions**: Each solution includes test cases and can be run directly
+
+## 📝 Solution Format
+
+Each solution includes:
+- Problem description and link
+- Approach explanation
+- Time & Space Complexity analysis
+- Python code with comments
+- Test cases
+- Related problems for practice
+
+## 🛠️ Quick Start
+
+```bash
+# Test the existing Two Sum solution
+cd solutions/easy/two-sum
+python3 solution.py
+
+# Create a new solution
+cd ../../
+python3 create_solution.py easy valid-palindrome
+
+# Study topics
+# Check study_notes/ for comprehensive guides
+```
+
+**📖 For detailed setup and learning path, see [GETTING_STARTED.md](./GETTING_STARTED.md)**
+
+## 📚 Learning Resources
+
+- [LeetCode Official](https://leetcode.com/)
+- [NeetCode](https://neetcode.io/)
+- [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
+
+## 🤝 Contributing
+
+Feel free to:
+- Suggest improvements to existing solutions
+- Report bugs or issues
+- Share alternative approaches
+- Connect for study sessions
+
+## 📞 Contact
+
+- **Email:** your.email@example.com
+- **LinkedIn:** [Your Profile](link)
+- **GitHub:** [@yourusername](https://github.com/yourusername)
 
 ---
 
-Happy coding! 🎉 
+**Let's keep the coding streak alive! 💪**
+
+*"The only way to learn a new programming language is by writing programs in it."* - Dennis Ritchie
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  <img src="https://img.shields.io/badge/Algorithm-FF6B6B?style=for-the-badge&logo=algorithm&logoColor=white" alt="Algorithm">
+</div> 
